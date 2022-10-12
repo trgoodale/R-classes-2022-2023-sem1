@@ -1,2 +1,2 @@
-install.package("readxl")
-install.package("tidyverse")
+install.packages("readxl")
+install.packages("tidyverse")
